@@ -38,7 +38,7 @@ namespace RPSLS_Project
             while (player1.playerScore < 3 || player2.playerScore < 3);
 
             //WhoWon();Nevin
-            //PlayAgain();Nevin
+
         }
         public void GameRules()
         {
@@ -76,7 +76,7 @@ namespace RPSLS_Project
         {
             Console.WriteLine("How many times do you wish to play?");
                        
-            GameTimeMax = (Console.ReadLine());
+            GameTimeMax = (Int32.Parse(Console.ReadLine()));
 
         }
 

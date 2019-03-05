@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace RPSLS_Project
+namespace RPSLS
 {
     public class Gestures
     {
@@ -22,14 +22,5 @@ namespace RPSLS_Project
             gesturesList.Add("Lizard");
             gesturesList.Add("Spock");
         }
-
-
-        //member methods (can do...)
-        public void Thing()
-        {
-
-        }
-
-
     }
 }

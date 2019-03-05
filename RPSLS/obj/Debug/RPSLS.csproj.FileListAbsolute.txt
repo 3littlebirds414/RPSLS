@@ -1,0 +1,7 @@
+C:\Users\3litt\source\repos\RPSLS\RPSLS\bin\Debug\RPSLS.exe.config
+C:\Users\3litt\source\repos\RPSLS\RPSLS\bin\Debug\RPSLS.exe
+C:\Users\3litt\source\repos\RPSLS\RPSLS\bin\Debug\RPSLS.pdb
+C:\Users\3litt\source\repos\RPSLS\RPSLS\obj\Debug\RPSLS.csprojAssemblyReference.cache
+C:\Users\3litt\source\repos\RPSLS\RPSLS\obj\Debug\RPSLS.csproj.CoreCompileInputs.cache
+C:\Users\3litt\source\repos\RPSLS\RPSLS\obj\Debug\RPSLS.exe
+C:\Users\3litt\source\repos\RPSLS\RPSLS\obj\Debug\RPSLS.pdb

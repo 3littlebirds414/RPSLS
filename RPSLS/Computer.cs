@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace RPSLS_Project
+namespace RPSLS
 {
     public class Computer : Player
     {

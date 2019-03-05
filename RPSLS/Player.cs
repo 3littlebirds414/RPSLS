@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace RPSLS_Project
+namespace RPSLS
 {
     public abstract class Player
     {
